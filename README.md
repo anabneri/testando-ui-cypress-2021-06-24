@@ -5,7 +5,6 @@
 Precisa testar seu fluxo com visão de usuário e isso sempre demora muito? Que tal investir um tempinho na automatização desse processo, pra não ter mais dor de cabeça? Vamos ver aqui como automatizar testes end-to-end na interface pra ficar livre dos testes manuais!
 
 ## Expert
-
-| [<img src="https://avatars.githubusercontent.com/u/45862435?v=4" width="75px;"/>](https://github.com/frontfabi) |
-| :-------------------------------------------------------------------------------------------------------------: |
-|                                 [Fabi Rodrigues](https://github.com/frontfabi)                                  |
+| [<img src="https://avatars.githubusercontent.com/u/42419543?v=4" width="75px;"/>](https://github.com/anabneri) |
+| :-: |
+|[Ana Neri](https://github.com/anabneri)|
